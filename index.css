@@ -1,0 +1,21 @@
+*{
+    color: black;
+    font-style:oblique;
+    
+}
+
+table #td1{
+    width: 50%;
+    
+}
+
+#tr2{
+    text-decoration: line-through;
+}
+
+table #tr1{
+    background-color: gray; 
+}
+table tr{
+    background-color: lightgreen;
+}
